@@ -32,7 +32,7 @@ export default function Registration() {
             <img src="/image/Registration-2.png" alt="registration" className="w-full" />
 
             <a
-              href="https://bit.ly/Nerolusi-INTI-TKA2025"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdcZX6hHWQl92p15uphQQYXFXfe-bBexDRJouzROhhuv3EdDA/viewform?usp=publish-editor"
               className="absolute bottom-14 left-1/2 -translate-x-1/2 bg-black text-white px-4 py-2 rounded-[0.5rem] shadow-md hover:bg-gray-700 transition duration-300 xl:text-[1.4rem] font-bold"
             >
               Daftar <i className="fas fa-pen-to-square"></i>

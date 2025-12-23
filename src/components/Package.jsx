@@ -34,7 +34,7 @@ export default function Package() {
 
               {/* Tombol */}
               <div className="flex justify-center">
-                <a href="https://bit.ly/Nerolusi-INTI-TKA2025" className="bg-green-500 text-white px-4 py-1 md:py-2 rounded-[0.5rem] shadow-md hover:bg-green-700 transition duration-300 text-[0.8rem] md:text-lg font-bold">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdcZX6hHWQl92p15uphQQYXFXfe-bBexDRJouzROhhuv3EdDA/viewform?usp=publish-editor" className="bg-green-500 text-white px-4 py-1 md:py-2 rounded-[0.5rem] shadow-md hover:bg-green-700 transition duration-300 text-[0.8rem] md:text-lg font-bold">
                   Daftar <i className="fas fa-pen-to-square"></i>
                 </a>
               </div>
