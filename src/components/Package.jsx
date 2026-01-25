@@ -28,7 +28,7 @@ export default function Package() {
               </h1>
 
               <h1 className="flex flex-col items-center px-8 text-xl md:text-4xl text-red-400 font-bold md:mb-3">
-                Rp 385.000
+                Rp 279.000
                 <span className="block text-[0.5rem] md:text-sm font-light">Promo Sangat Terbatas!</span>
               </h1>
 
