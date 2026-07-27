@@ -67,7 +67,7 @@ export default function Testimonials() {
       <div className="w-full bg-nero-green-900 block">
         <div className="text-center md:text-left md:pl-24 pb-16">
           <h1 className="text-2xl md:text-2xl lg:text-[2.4rem] font-bold text-nero-gray-50">
-            <span className="bg-red-600 p-1 text-white rounded-xl">SNBT/UTBK Semakin Dekat,</span>
+            <span className="bg-red-600 p-1 text-white rounded-xl">TKA dan SNBP Semakin Dekat,</span>
           </h1>
           <h1 className="text-2xl md:text-2xl lg:text-[2.4rem] font-bold text-white md:mt-5">
             Jangan Tunggu Sampai Nyesel. <span>Mulai Sekarang!</span>
