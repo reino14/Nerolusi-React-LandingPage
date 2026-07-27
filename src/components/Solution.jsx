@@ -14,11 +14,11 @@ export default function Solution() {
             <div className="border-4 border-green-700 rounded-xl pt-4 px-3 h-full flex flex-col justify-between">
               <div>
                 <h3 className="text-green-700 font-bold text-[1.3rem] text-center">
-                  Simulasi SNBT/UTBK Asli <br />
+                  Simulasi TKA Asli <br />
                   <span className="text-nero-green-700">Dengan Akurat!</span>
                 </h3>
 
-                <p className="text-[0.9rem] mt-2 mb-4 md:mb-0">Menyediakan platform Try-Out dan simulasi soal yang mirip dengan SNBT/UTBK asli!</p>
+                <p className="text-[0.9rem] mt-2 mb-4 md:mb-0">Menyediakan platform Try-Out dan simulasi soal yang mirip dengan TKA asli!</p>
               </div>
 
               <div className="mb-10">
@@ -34,14 +34,14 @@ export default function Solution() {
                 <h3 className="text-nero-green-700 font-bold text-[1.3rem] text-center">
                   Komunitas{' '}
                   <span className="text-nero-green-900">
-                    Pejuang <em>SNBT/UTBK</em>
+                    Pejuang <em>TKA</em>
                   </span>{' '}
                   <br />
                   <span className="text-nero-green-900">dan</span> Konsultasi Privat!
                 </h3>
 
                 <p className="text-[0.9rem] mt-2 mb-6 md:mb-0">
-                  Membangun <b>komunitas belajar</b> yang SOLID antar murid! Menyediakan layanan <b>konsultasi</b> segala hal terkait SNBT/UTBK!
+                  Membangun <b>komunitas belajar</b> yang SOLID antar murid! Menyediakan layanan <b>konsultasi</b> segala hal terkait TKA!
                 </p>
               </div>
 

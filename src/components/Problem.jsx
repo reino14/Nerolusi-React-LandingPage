@@ -17,7 +17,7 @@ export default function Problem() {
                   <img src="./image/Problems-1.png" alt="" className="pt-1 px-2 w-[80%] bg-nero-green-900 rounded-[1.6rem]" />
                 </div>
                 <div className="w-[60%] flex items-center px-1">
-                  <p className="text-lg font-bold text-green-700">Bingung Mulai Belajar SNBT/UTBK Dari Mana?</p>
+                  <p className="text-lg font-bold text-green-700">Bingung Mulai Belajar TKA Dari Mana?</p>
                 </div>
               </div>
             </div>
